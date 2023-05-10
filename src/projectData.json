@@ -1,0 +1,44 @@
+ [
+    {
+        "id": 0,
+        "title": "Day Planner",
+        "deployed": "https://stillawake17.github.io/DayPlanner/",
+        "gitRepo": "https://github.com/stillawake17/DayPlanner",
+        "imageUrl": "dayplanner.png"
+    },
+    {
+        "id": 1,
+        "title": "Console Finances",
+        "deployed" : "https://stillawake17.github.io/Console-Finances/",
+        "gitRepo": "https://github.com/stillawake17/Console-Finances",
+        "imageUrl": "console.png"
+    },
+    {
+        "id": 2,
+        "title": "Refactoring Website",
+        "deployed": "https://stillawake17.github.io/Challenge1",
+        "gitRepo": "https://github.com/stillawake17/Challenge1",
+        "imageUrl": "horiseon.png"
+    },
+    {
+        "id": 3,
+        "title": "Your Hood",
+        "deployed":"https://jalexander94.github.io/Project-JJJ/index.html",
+        "gitRepo": "https://github.com/JAlexander94/Project-JJJ",
+        "imageUrl": "yourhood.png"
+    },
+    {
+        "id": 4,
+        "title": "Grid Portfolio Page",
+        "deployed" : "https://stillawake17.github.io/Challenge2/",
+        "gitRepo": "https://github.com/stillawake17/Challenge2",
+        "imageUrl": "challenge2.png"
+    },
+    {
+        "id": 5,
+        "title": "Cinematch",
+        "deployed" : "https://cinematch.netlify.com",
+        "gitRepo": "https://github.com/wagnerona/cine-match-app",
+        "imageUrl": "screenshot1.png"
+    }
+]
