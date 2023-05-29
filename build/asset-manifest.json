@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.db03aa43.css",
-    "main.js": "/static/js/main.36c3ee0c.js",
-    "index.html": "/index.html",
-    "main.db03aa43.css.map": "/static/css/main.db03aa43.css.map",
-    "main.36c3ee0c.js.map": "/static/js/main.36c3ee0c.js.map"
+    "main.css": "/turbo-octo-chainsaw/static/css/main.db03aa43.css",
+    "main.js": "/turbo-octo-chainsaw/static/js/main.36c3ee0c.js",
+    "index.html": "/turbo-octo-chainsaw/index.html",
+    "main.db03aa43.css.map": "/turbo-octo-chainsaw/static/css/main.db03aa43.css.map",
+    "main.36c3ee0c.js.map": "/turbo-octo-chainsaw/static/js/main.36c3ee0c.js.map"
   },
   "entrypoints": [
     "static/css/main.db03aa43.css",
