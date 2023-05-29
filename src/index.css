@@ -97,6 +97,9 @@ header nav a.active {
   position: relative;
   overflow: hidden;
   cursor: pointer;
+  width: 200px;  /* Ensure that the book div has a width */
+  height: auto;  /* And it adjusts its height to maintain the image aspect ratio */
+
 }
 
 .project img, .book img {

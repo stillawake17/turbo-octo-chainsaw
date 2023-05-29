@@ -2,43 +2,44 @@
     {
         "id": 0,
         "title": "Kafka Encounters the NHS",
-        "deployed": "https://stillawake17.github.io/DayPlanner/",
-        "gitRepo": "https://github.com/stillawake17/DayPlanner",
-        "imageUrl": "dayplanner.png"
+        "deployed": "https://www.amazon.co.uk/Kafka-encounters-NHS-Clive-Stevens-ebook/dp/B0C1NSKCY5",
+        "gitRepo": "",
+        "imageUrl": "/kafka.jpg"
     },
     {
         "id": 1,
-        "title": "Louisa/'s passion",
-        "deployed" : "https://stillawake17.github.io/Console-Finances/",
-        "gitRepo": "https://github.com/stillawake17/Console-Finances",
-        "imageUrl": "console.png"
+        "title": "Louisa's passion",
+        "deployed" : "https://www.amazon.co.uk/Louisas-Passion-Vineyard-Book/dp/098295543X/ref=sr_1_1",
+        "gitRepo": "",
+        "imageUrl": "/louisa.jpg"
     },
     {
         "id": 2,
-        "title": "The man in the brown suit",
-        "deployed": "https://stillawake17.github.io/Challenge1",
-        "gitRepo": "https://github.com/stillawake17/Challenge1",
-        "imageUrl": "horiseon.png"
+        "title": "Australiana Colouring Book",
+        "deployed": "https://www.amazon.co.uk/dp/B0C2SMM6TR",
+        "gitRepo": "",
+        "imageUrl": "/australiana3.png"
     },
     {
         "id": 3,
-        "title": "Your Hood",
-        "deployed":"https://jalexander94.github.io/Project-JJJ/index.html",
-        "gitRepo": "https://github.com/JAlexander94/Project-JJJ",
-        "imageUrl": "yourhood.png"
+        "title": "220-Day Writing Habit",
+        "deployed":"https://www.amazon.co.uk/dp/B0C6FTRQG3",
+        "gitRepo": "",
+        "imageUrl": "/220word.jpg"
     },
     {
         "id": 4,
-        "title": "Grid Portfolio Page",
-        "deployed" : "https://stillawake17.github.io/Challenge2/",
-        "gitRepo": "https://github.com/stillawake17/Challenge2",
-        "imageUrl": "challenge2.png"
+        "title": "Living in the Dollhouse Colouring Book",
+        "deployed" : "https://www.amazon.co.uk/dp/B0C5P9WZ34",
+        "gitRepo": "",
+        "imageUrl": "/dolhouse.jpg"
     },
     {
         "id": 5,
-        "title": "Cinematch",
-        "deployed" : "https://cinematch.netlify.com",
-        "gitRepo": "https://github.com/wagnerona/cine-match-app",
-        "imageUrl": "screenshot1.png"
+        "title": "Hopper Inspired Coloring Book",
+        "deployed" : "https://www.amazon.co.uk/dp/B0C2S59SGB",
+        "gitRepo": "",
+        "imageUrl": "/hopper 2.jpg"
     }
+
 ]

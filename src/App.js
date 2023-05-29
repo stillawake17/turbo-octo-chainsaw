@@ -9,6 +9,7 @@ import NotFound from './pages/NotFound';
 import ProjectGallery from './components/ProjectGallery';
 import Project from './components/Project';
 import Book from './components/Book';
+import PayPalButton from './components/PayPalButton';
 
 
 
@@ -25,6 +26,7 @@ function App() {
         <Route path="/projectGallery" element={<ProjectGallery />} />
         {/* <Route path="/project" element={<Project />} /> */}
         <Route path="/book" element={<Book />} />
+        <Route path="/pay" element={<PayPalButton />} />
     </Routes>
    
     
