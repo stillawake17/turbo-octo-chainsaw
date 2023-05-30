@@ -1,4 +1,3 @@
-# Create a .github/workflows/deploy.yml file in your repository
 name: Deploy
 on:
   push:
@@ -9,9 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: 14
       - name: Build and deploy
@@ -25,7 +24,7 @@ jobs:
         env:
           CI: false
       - name: Deploy to GitHub Pages
-        uses: stillawake17/github-pages-deploy-action@4.1.3
+        uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
           branch: gh-pages
           folder: build
