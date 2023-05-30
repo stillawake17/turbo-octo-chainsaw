@@ -15,12 +15,14 @@ jobs:
           node-version: 14
       - name: Build and deploy
         run: |
+          set -e  
           cd src
           npm install
           npm run build
           mv build/ ../
           cd ../
           echo '{}' > ./build/CNAME
+  
         env:
          # CI: false,
           CI: npm run build
