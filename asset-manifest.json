@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/turbo-octo-chainsaw/static/css/main.db03aa43.css",
-    "main.js": "/turbo-octo-chainsaw/static/js/main.36c3ee0c.js",
+    "main.css": "/turbo-octo-chainsaw/static/css/main.78951db1.css",
+    "main.js": "/turbo-octo-chainsaw/static/js/main.0c78b6a1.js",
     "index.html": "/turbo-octo-chainsaw/index.html",
-    "main.db03aa43.css.map": "/turbo-octo-chainsaw/static/css/main.db03aa43.css.map",
-    "main.36c3ee0c.js.map": "/turbo-octo-chainsaw/static/js/main.36c3ee0c.js.map"
+    "main.78951db1.css.map": "/turbo-octo-chainsaw/static/css/main.78951db1.css.map",
+    "main.0c78b6a1.js.map": "/turbo-octo-chainsaw/static/js/main.0c78b6a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.db03aa43.css",
-    "static/js/main.36c3ee0c.js"
+    "static/css/main.78951db1.css",
+    "static/js/main.0c78b6a1.js"
   ]
 }
